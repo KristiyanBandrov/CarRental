@@ -1,4 +1,4 @@
-﻿namespace Warehouse.Core.Constants
+﻿namespace CarRental.Core.Constants
 {
     public static class UserConstants
     {

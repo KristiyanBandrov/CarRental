@@ -2,7 +2,7 @@ using CarRental.Infrastructure.Data;
 using CarRental.ModelBinders;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Warehouse.Core.Constants;
+using CarRental.Core.Constants;
 
 var builder = WebApplication.CreateBuilder(args);
 
